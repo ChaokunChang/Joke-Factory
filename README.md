@@ -6,5 +6,5 @@
 https://www.kaggle.com/abhinavmoudgil95/short-jokes
 
 ### Chinese Jokes
-xxxx 
+https://github.com/Licoy/A-Joke
 
